@@ -1,6 +1,6 @@
 'use strict';
 
-const bn = require('bignum');
+const bn = require('bn.js');
 const cn = require('node-cryptonight').asyncHash;
 const events = require('events');
 
